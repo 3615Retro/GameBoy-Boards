@@ -1,2 +1,2 @@
 # GameBoy-Boards
- Photos & scans of different Game Boys
+ Photos & scans of different GameBoys
