@@ -1,3 +1,6 @@
+![020309E4-01-1 board front](020309E4-01-1_front.png)
+![020309E4-01-1 board back](020309E4-01-1_back.png)
+
 # 020309E4-01-1
 
 ## Known games using the board :
