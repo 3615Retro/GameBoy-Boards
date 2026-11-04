@@ -1,5 +1,11 @@
-![020309E4-01-1 board front](020309E4-01-1_front.png)
-![020309E4-01-1 board back](020309E4-01-1_back.png)
+<div align="center">
+  <a href="/020309E4-01-1_front.png">
+    <img src="020309E4-01-1_front.png" width="412px"/> 
+  </a>
+  <a href="020309E4-01-1_back.png">
+    <img src="020309E4-01-1_back.png" width="412px"/>
+  </a>
+</div>
 
 # 020309E4-01-1
 
