@@ -28,4 +28,4 @@ See more on : https://gbhwdb.gekkio.fi/cartridges/DMG-KFDN.html
 
 ## Values of component :
 R1   : 1 k Ω  
-Z1   : 0,2 Ω  
+Z1   : 0 Ω  
